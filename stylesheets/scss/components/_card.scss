@@ -1,0 +1,72 @@
+@use "../helpers/" as *;
+
+.testimonial {
+	padding: 2.4rem 3rem;
+	display: flex;
+	flex-direction: column;
+	gap: 1.8rem;
+	&__header {
+		display: flex;
+		gap: 1.7rem;
+		&__avatar {
+			width: 3rem;
+			border-radius: 50%;
+			border: 0.2rem solid rgba($light-grey, 0.5);
+		}
+		&__text {
+			&__name {
+				font-size: 1.3rem;
+				font-weight: map-get($font-weights, bold);
+			}
+			&__status {
+				font-size: 1.1rem;
+				font-weight: map-get($font-weights, medium);
+				opacity: 0.5;
+			}
+		}
+	}
+	&__content {
+		display: flex;
+		flex-direction: column;
+		gap: 1.6rem;
+		&__title {
+			font-size: 2rem;
+			font-weight: map-get($font-weights, bold);
+		}
+		&__review {
+			opacity: 0.7;
+			font-weight: map-get($font-weights, medium);
+		}
+	}
+
+	&--light {
+		background-color: $white;
+		color: $very-dark-greyish-blue;
+	}
+	&--dark {
+		background-color: $very-dark-blackish-blue;
+		color: $white;
+	}
+
+	&.violet {
+		position: relative;
+		background-color: $moderate-violet;
+		.testimonial__content__title {
+			z-index: 5;
+			&::after {
+				content: "";
+				position: absolute;
+				height: 10rem;
+				width: 10rem;
+				top: 0;
+				right: 10%;
+				z-index: -1;
+
+				background-image: url(../../../images/bg-pattern-quotation.svg);
+			}
+		}
+	}
+	&.grey {
+		background-color: $very-dark-greyish-blue;
+	}
+}
