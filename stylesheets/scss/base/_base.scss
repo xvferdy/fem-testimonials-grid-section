@@ -7,12 +7,10 @@
 	padding: 0;
 	box-sizing: inherit;
 	font-family: $primary-font;
-	// border: 1px solid grey;
 }
 
 body {
 	box-sizing: border-box;
-	// background-image: $gradients-1;
 }
 
 html {
@@ -21,4 +19,8 @@ html {
 
 .container {
 	background-color: $light-grayish-blue;
+	min-height: 100vh;
+	display: grid;
+	place-items: center;
+	padding: 2.4rem;
 }

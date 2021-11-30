@@ -1,4 +1,43 @@
+@use "../helpers/" as *;
+
 .testimonials {
+	max-width: 111rem;
 	display: grid;
-	gap: 2rem;
+	gap: 2.4rem 3rem;
+	grid-auto-columns: 1fr;
+	grid-template-areas:
+		"daniel daniel jonathan kira"
+		"jeanette patrick patrick kira";
+	.daniel {
+		grid-area: daniel;
+	}
+	.jonathan {
+		grid-area: jonathan;
+	}
+	.jeanette {
+		grid-area: jeanette;
+	}
+	.patrick {
+		grid-area: patrick;
+	}
+	.kira {
+		grid-area: kira;
+	}
+	@include display(tab-land) {
+		max-width: 83rem;
+		grid-template-areas:
+			"daniel daniel"
+			"jeanette kira"
+			"jonathan kira"
+			"patrick patrick";
+	}
+	@include display(mobile) {
+		max-width: 41.4rem;
+		grid-template-areas:
+			"daniel "
+			"jonathan "
+			"jeanette "
+			"patrick "
+			"kira";
+	}
 }

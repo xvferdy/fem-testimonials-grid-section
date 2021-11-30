@@ -1,10 +1,11 @@
 # Notes
 
 **gampang**
-- [ ] gradients name
+- [ ] js content variable
+- [x] ava size
 
 **susah**
-- [ ] img path (!live-server)
+- [x] img path (!live-server)
 - [ ] lineheight
 
 **di luar project**
