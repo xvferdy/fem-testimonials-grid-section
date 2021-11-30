@@ -1,7 +1,8 @@
 # Notes
 
 **gampang**
-- [ ] gradients name
+- [ ] js content variable
+- [ ] ava size
 
 **susah**
 - [ ] img path (!live-server)

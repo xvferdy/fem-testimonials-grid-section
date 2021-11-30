@@ -25,8 +25,11 @@ p {
 }
 
 .testimonials {
-  display: grid;
-  gap: 2rem;
+  width: 90%;
+  margin: 0 auto;
+  min-height: 100vh;
+  place-items: center;
+  padding: 2.4rem;
 }
 
 .testimonial {
