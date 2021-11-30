@@ -3,6 +3,7 @@
 **gampang**
 - [ ] js content variable
 - [x] ava size
+- [ ] web title
 
 **susah**
 - [x] img path (!live-server)
