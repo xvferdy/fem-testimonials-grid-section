@@ -24,11 +24,6 @@ p {
   font-size: 1.3rem;
 }
 
-.testimonials {
-  display: grid;
-  gap: 2rem;
-}
-
 .testimonial {
   padding: 2.4rem 3rem;
   display: flex;
