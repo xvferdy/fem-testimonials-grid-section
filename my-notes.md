@@ -2,10 +2,10 @@
 
 **gampang**
 - [ ] js content variable
-- [ ] ava size
+- [x] ava size
 
 **susah**
-- [ ] img path (!live-server)
+- [x] img path (!live-server)
 - [ ] lineheight
 
 **di luar project**

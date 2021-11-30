@@ -5,6 +5,9 @@
 	display: flex;
 	flex-direction: column;
 	gap: 1.8rem;
+	border-radius: 0.8rem;
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px,
+		rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
 	&__header {
 		display: flex;
 		gap: 1.7rem;
@@ -16,11 +19,13 @@
 		&__text {
 			&__name {
 				font-size: 1.3rem;
-				font-weight: map-get($font-weights, bold);
+				line-height: 1.3rem;
+				font-weight: map-get($font-weights, medium);
+				margin-bottom: 0.4rem;
 			}
 			&__status {
 				font-size: 1.1rem;
-				font-weight: map-get($font-weights, medium);
+				line-height: 1.1rem;
 				opacity: 0.5;
 			}
 		}
@@ -32,13 +37,13 @@
 		&__title {
 			font-size: 2rem;
 			font-weight: map-get($font-weights, bold);
+			line-height: 2.5rem;
 		}
 		&__review {
 			opacity: 0.7;
-			font-weight: map-get($font-weights, medium);
+			line-height: 1.8rem;
 		}
 	}
-
 	&--light {
 		background-color: $white;
 		color: $very-dark-greyish-blue;
@@ -47,22 +52,23 @@
 		background-color: $very-dark-blackish-blue;
 		color: $white;
 	}
-
 	&.violet {
 		position: relative;
 		background-color: $moderate-violet;
+		z-index: 5;
 		.testimonial__content__title {
-			z-index: 5;
 			&::after {
 				content: "";
 				position: absolute;
-				height: 10rem;
-				width: 10rem;
+
 				top: 0;
-				right: 10%;
+				right: 14%;
 				z-index: -1;
 
-				background-image: url(../../../images/bg-pattern-quotation.svg);
+				background-image: url(../../images/bg-pattern-quotation.svg);
+				background-repeat: no-repeat;
+				height: 11rem;
+				width: 11rem;
 			}
 		}
 	}
