@@ -6,7 +6,7 @@
 > 🖥️ **Welcome** <br>
 > Thanks for checking out this front-end coding challenge.
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
-***To do this challenge, you need a basic understanding of HTML and CSS.*** Press <kbd>Enter</kbd> 🚀 to start the game!
+***To do this challenge, you need a basic understanding of HTML and CSS.*** Press <kbd>Enter</kbd> 🚀 to start the game!!
 
 ## 📍Table of Contents
 - [Brief](#brief)
