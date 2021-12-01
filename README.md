@@ -68,5 +68,5 @@ I learn how to select another class in HTML using Sass
 - [Kevin Powell's CSS Grid Video](https://www.youtube.com/watch?v=rg7Fvvl3taU "Kevin Powell Youtube")
 
 <h3 align="right">
-      <a href="#beginner-portfolio">To Top ⤴️</a>
+      <a href="#testimonials-grid-section">To Top ⤴️</a>
 </h3>
