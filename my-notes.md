@@ -4,6 +4,7 @@
 - [ ] js content variable
 - [x] ava size
 - [ ] web title
+- [ ] readme links web
 
 **susah**
 - [x] img path (!live-server)
