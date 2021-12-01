@@ -39,7 +39,7 @@ Users should be able to:
 - Live Site URL: Add live site URL here
 
 ## My process
-> ⏱️ My estimate time for this challenge is 2 days
+> ⏱️ My estimate time for this challenge is 1 day
 ### Built with
 - VSCode
 - HTML
