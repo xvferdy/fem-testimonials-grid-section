@@ -23,6 +23,7 @@
 Your challenge is to build out this testimonials grid section and get it looking as close to the design as possible. You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go. 
 
 **Preview** :eyeglasses:
+
 ![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
 
 ### The challenge
@@ -47,7 +48,7 @@ Users should be able to:
 ### What I learned
 I learn how to select another class in HTML using Sass
 - `&.<className>`
-###### stylesheets/scss/components/_card.scss
+###### stylesheets/scss/components/\_card.scss
 ```scss
 &.grey {
   background-color: $very-dark-greyish-blue;
