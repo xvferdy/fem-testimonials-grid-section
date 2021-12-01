@@ -26,13 +26,14 @@ Your challenge is to build out this **testimonials grid section** and get it loo
 
 ![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
 
-### The challenge
+### The challenge 
 Users should be able to:
-
+  
 | Challenge | Newbie | Junior | Intermediate | Advanced |
 | --- | :---: | :---: | :---: | :---: |
 | View the optimal layout for the site depending on their device's screen size |  | ⭕ |  |  |
 
+<a href="https://www.frontendmentor.io/challenges?difficulties=1" target="_blank"><img src="https://img.shields.io/badge/Difficulty-Newbie-black?style=for-the-badge&logo=frontendmentor" alt="Difficulty"></a>
 
 ### Links
 - Solution URL: [Add solution URL here]()
