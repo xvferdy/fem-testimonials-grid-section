@@ -14,7 +14,7 @@
 	- [Links](#links)
 - [My process](#my-process)
 	- [Built with](#built-with)
-	- [What I learned](#what-i-learned)
+	- [What I learned](#what-i-learned-)
 	- [Continued development](#continued-development)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
@@ -45,7 +45,7 @@ Users should be able to:
 - HTML
 - Sass
 
-### What I learned
+### What I learned 🥳
 I learn how to select another class in HTML using Sass
 - `&.<className>`
 ###### stylesheets/scss/components/\_card.scss
