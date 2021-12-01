@@ -58,6 +58,7 @@ I learn how to select another class in HTML using Sass
 ### Continued development
 - [ ] Small refactoring
 - [ ] Mobile First
+- [x] Web Title
 
 ## Author
 | [<img src="https://avatars.githubusercontent.com/u/47988956?v=4" alt="xvferdy" width="100px"/>](https://github.com/xvferdy) </br> [🌍](https://berlianto.netlify.app/) |
