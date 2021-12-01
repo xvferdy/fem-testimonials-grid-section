@@ -2,11 +2,11 @@
 
 > 🔖 This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7).
 
-## 🌈 ❇️ 🎉 Have fun building! 🚀 🎊 🎈
+## 🌈 ✨ 🎉 Have fun building! 🚀 🎊 🎈
 > 🖥️ **Welcome** <br>
 > Thanks for checking out this front-end coding challenge.
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
-***To do this challenge, you need a basic understanding of HTML and CSS.*** 
+***To do this challenge, you need a basic understanding of HTML and CSS.*** Press <kbd>Enter</kbd> to start the game! 🚀
 
 ## Brief
 Your challenge is to build out this testimonials grid section and get it looking as close to the design as possible. You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go. 
@@ -45,20 +45,14 @@ I learn how to select another class in HTML using Sass
 
 ### Continued development
 - [ ] Small refactoring
+- [ ] Mobile First
 
 ## Author
 | [<img src="https://avatars.githubusercontent.com/u/47988956?v=4" alt="xvferdy" width="100px"/>](https://github.com/xvferdy) </br> [🌍](https://berlianto.netlify.app/) |
 |:---:| 
 | Berlianto | 
-| <sup>Frontend Mentor<sup> | 
+| [<samp>Frontend Mentor<samp>](https://www.frontendmentor.io/profile/xvferdy) | 
 
 
 ## Acknowledgments
-
-
-
-
-
-
-
-
+- [Kevin Powell's CSS Grid Video](https://www.youtube.com/watch?v=rg7Fvvl3taU "Kevin Powell Youtube")
