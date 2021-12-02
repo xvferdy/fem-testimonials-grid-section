@@ -33,7 +33,7 @@ Users should be able to:
 | --- | :---: | :---: | :---: | :---: |
 | View the optimal layout for the site depending on their device's screen size |  | ⭕ |  |  |
 
-[![Difficulty](https://img.shields.io/badge/Difficulty-Junior-3F54A3?style=for-the-badge&logo=frontendmentor "Junior difficulty")](https://www.frontendmentor.io/challenges?difficulties=2)
+[![🐬 Junior Difficulty List](https://img.shields.io/badge/Difficulty-Junior-3F54A3?style=for-the-badge&logo=frontendmentor "Junior Difficulty")](https://www.frontendmentor.io/challenges?difficulties=2)
 
 ### Links
 - Solution URL: [Add solution URL here]()
