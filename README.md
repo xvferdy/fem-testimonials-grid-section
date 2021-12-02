@@ -1,5 +1,4 @@
 # Testimonials grid section
-[![Image of Yaktocat](https://img.shields.io/github/followers/xvferdy?color=%233F54A3&logo=paypal&style=for-the-badge "preview word")](https://github.com/xvferdy/)
 
 > 🔖 This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7).
 
@@ -34,9 +33,7 @@ Users should be able to:
 | --- | :---: | :---: | :---: | :---: |
 | View the optimal layout for the site depending on their device's screen size |  | ⭕ |  |  |
 
-<a href="https://www.frontendmentor.io/challenges?difficulties=1" target="_blank"><img src="https://img.shields.io/badge/Difficulty-Newbie-3F54A3?style=for-the-badge&logo=frontendmentor" alt="Difficulty"></a>
-
-
+[![Difficulty](https://img.shields.io/badge/Difficulty-Junior-3F54A3?style=for-the-badge&logo=frontendmentor "Junior difficulty")](https://www.frontendmentor.io/challenges?difficulties=2)
 
 ### Links
 - Solution URL: [Add solution URL here]()
