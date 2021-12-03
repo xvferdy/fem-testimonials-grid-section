@@ -60,14 +60,14 @@ I learn how to select another class in HTML using Sass
 
 ### Continued development
 - [ ] Small refactoring
-- [ ] Mobile First
-- [x] Web Title
+- [ ] Mobile first
+- [x] Web title
 
 ## Author
-| [<img src="https://avatars.githubusercontent.com/u/47988956?v=4" alt="xvferdy" width="100px"/>](https://github.com/xvferdy) </br> [🌍](https://berlianto.netlify.app/) |
-|:---:| 
-| Berlianto | 
-| [<samp>Frontend Mentor<samp>](https://www.frontendmentor.io/profile/xvferdy) | 
+
+- Website - `null`
+- Frontend Mentor - [@xvferdy](https://www.frontendmentor.io/profile/xvferdy "xvferdy")
+- Twitter - `null`
 
 ## Acknowledgments
 - [Kevin Powell's CSS Grid Video](https://www.youtube.com/watch?v=rg7Fvvl3taU "Kevin Powell Youtube")
