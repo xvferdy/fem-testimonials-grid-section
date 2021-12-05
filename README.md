@@ -9,19 +9,15 @@
 ***To do this challenge, you need a basic understanding of HTML and CSS.*** Press <kbd>Enter</kbd> 🚀 to start the game!!
 
 ## 📍Table of Contents
-- [Testimonials grid section](#testimonials-grid-section)
-  - [🌈 ✨ 🎉 Have Fun Building! 🚀 🎊 🎈](#---have-fun-building---)
-  - [📍Table of Contents](#table-of-contents)
-  - [Brief](#brief)
-    - [The challenge](#the-challenge)
-    - [Links](#links)
-  - [My process](#my-process)
-    - [Built with](#built-with)
-    - [What I learned 🥳](#what-i-learned-)
-          - [stylesheets/scss/components/\_card.scss](#stylesheetsscsscomponents_cardscss)
-    - [Continued development](#continued-development)
-  - [Author](#author)
-  - [Acknowledgments](#acknowledgments)
+- [Brief](#brief)
+	- [The challenge](#the-challenge)
+	- [Links](#links)
+- [My process](#my-process)
+	- [Built with](#built-with)
+	- [What I learned](#what-i-learned-)
+	- [Continued development](#continued-development)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 ## Brief
 This challenge will be perfect practice for anyone wanting to test their CSS Grid skills. Grid is such a powerful addition to CSS, so it's worth getting to grips with it!
@@ -42,8 +38,8 @@ Users should be able to:
 [![🐬 Junior Difficulty List](https://img.shields.io/badge/Difficulty-Junior-3F54A3?style=for-the-badge&logo=frontendmentor "Junior Difficulty")](https://www.frontendmentor.io/challenges?difficulties=2)
 
 ### Links
-- Solution URL: [Add solution URL here]()
-- Live Site URL: Add live site URL here
+- Solution URL: https://www.frontendmentor.io/solutions/femtestimonialsgridsection-Yca6vlaT3
+- Live Site URL: https://xvferdy.github.io/fem-testimonials-grid-section/
 
 ## My process
 > ⏱️ My estimate time for this challenge is 1 day
