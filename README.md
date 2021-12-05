@@ -38,8 +38,8 @@ Users should be able to:
 [![🐬 Junior Difficulty List](https://img.shields.io/badge/Difficulty-Junior-3F54A3?style=for-the-badge&logo=frontendmentor "Junior Difficulty")](https://www.frontendmentor.io/challenges?difficulties=2)
 
 ### Links
-- Solution URL: [Add solution URL here]()
-- Live Site URL: Add live site URL here
+- Solution URL: https://www.frontendmentor.io/solutions/femtestimonialsgridsection-Yca6vlaT3
+- Live Site URL: https://xvferdy.github.io/fem-testimonials-grid-section/
 
 ## My process
 > ⏱️ My estimate time for this challenge is 1 day
