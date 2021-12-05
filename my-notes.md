@@ -5,6 +5,8 @@
 - [x] ava size
 - [ ] web title
 - [ ] readme links web
+- [ ] delete some files
+- [ ] useless code/comment
 
 **susah**
 - [x] img path (!live-server)

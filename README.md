@@ -9,15 +9,19 @@
 ***To do this challenge, you need a basic understanding of HTML and CSS.*** Press <kbd>Enter</kbd> 🚀 to start the game!!
 
 ## 📍Table of Contents
-- [Brief](#brief)
-	- [The challenge](#the-challenge)
-	- [Links](#links)
-- [My process](#my-process)
-	- [Built with](#built-with)
-	- [What I learned](#what-i-learned-)
-	- [Continued development](#continued-development)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Testimonials grid section](#testimonials-grid-section)
+  - [🌈 ✨ 🎉 Have Fun Building! 🚀 🎊 🎈](#---have-fun-building---)
+  - [📍Table of Contents](#table-of-contents)
+  - [Brief](#brief)
+    - [The challenge](#the-challenge)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned 🥳](#what-i-learned-)
+          - [stylesheets/scss/components/\_card.scss](#stylesheetsscsscomponents_cardscss)
+    - [Continued development](#continued-development)
+  - [Author](#author)
+  - [Acknowledgments](#acknowledgments)
 
 ## Brief
 This challenge will be perfect practice for anyone wanting to test their CSS Grid skills. Grid is such a powerful addition to CSS, so it's worth getting to grips with it!
@@ -64,7 +68,6 @@ I learn how to select another class in HTML using Sass
 - [x] Web title
 
 ## Author
-
 - Website - `null`
 - Frontend Mentor - [@xvferdy](https://www.frontendmentor.io/profile/xvferdy "xvferdy")
 - Twitter - `null`
