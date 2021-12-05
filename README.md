@@ -64,7 +64,6 @@ I learn how to select another class in HTML using Sass
 - [x] Web title
 
 ## Author
-
 - Website - `null`
 - Frontend Mentor - [@xvferdy](https://www.frontendmentor.io/profile/xvferdy "xvferdy")
 - Twitter - `null`
